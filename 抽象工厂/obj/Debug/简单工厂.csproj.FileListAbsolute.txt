@@ -1,0 +1,5 @@
+E:\cts\个人\project\DesignPatterns\抽象工厂\bin\Debug\抽象工厂.exe
+E:\cts\个人\project\DesignPatterns\抽象工厂\bin\Debug\抽象工厂.pdb
+E:\cts\个人\project\DesignPatterns\抽象工厂\obj\Debug\ResolveAssemblyReference.cache
+E:\cts\个人\project\DesignPatterns\抽象工厂\obj\Debug\抽象工厂.exe
+E:\cts\个人\project\DesignPatterns\抽象工厂\obj\Debug\抽象工厂.pdb

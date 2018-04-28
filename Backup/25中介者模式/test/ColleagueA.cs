@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace _25中介者模式.test
+{
+    class ColleagueA:Colleague
+    {
+        public ColleagueA(Mediator m):base(m) 
+        {
+         
+        }
+
+        public void Send(string msg)
+        {
+            mediator.Send(msg,this);
+        }
+
+        public void Notice(string msg) 
+        {
+            Console.WriteLine("同事A收到消息:"+msg);
+        }
+    }
+}

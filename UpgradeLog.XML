@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DesignPatterns">
+</Property><Property Name="解决方案文件" Value="E:\项目\后期\Exercise\DesignPatterns\DesignPatterns.sln">
+</Property><Property Name="用户选项文件" Value="E:\项目\后期\Exercise\DesignPatterns\DesignPatterns.suo">
+</Property><Property Name="Date" Value="2014年7月9日">
+</Property><Property Name="Time" Value="8:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DesignPatterns.sln" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\DesignPatterns.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DesignPatterns.suo" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\DesignPatterns.suo">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\1简单工厂.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\1简单工厂.csproj">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Add.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Add.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Calculate.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Calculate.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\CalculateFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\CalculateFactory.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Div.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Div.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Mul.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Mul.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Program.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\Sub.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\抽象工厂\Sub.cs">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\1简单工厂.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="1简单工厂" Source="抽象工厂\1简单工厂.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\2策略模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\2策略模式.csproj">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashContent.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashContent.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashFactoryAndContent.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashFactoryAndContent.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashFactroy.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashFactroy.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashDisCount.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashDisCount.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashNormal.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashNormal.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashReturn.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashReturn.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\CashSuper.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\CashSuper.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Form1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Form1.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Form1.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Properties\Settings.settings" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Form1.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Form1.resx">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\Properties\Resources.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\策略模式\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\2策略模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="2策略模式" Source="策略模式\2策略模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\6装饰模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\6装饰模式.csproj">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\BadShoe.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\BadShoe.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\BigTrouse.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\BigTrouse.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\FineryDecorator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\FineryDecorator.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\SprotShoe.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\SprotShoe.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\test\ConcertDecoratorA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\test\ConcertDecoratorA.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\test\ConcertDecoratorB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\test\ConcertDecoratorB.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\test\ConcreteComponent.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\test\ConcreteComponent.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\test\Component.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\test\Component.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\test\Decorator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\test\Decorator.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\Person.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\Person.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\Tshirt.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\6装饰模式\Tshirt.cs">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\6装饰模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="6装饰模式" Source="6装饰模式\6装饰模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\7代理模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\7代理模式.csproj">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\Agent.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\Agent.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\Isend.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\Isend.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\Pursuer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\Pursuer.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\SchoolGirl.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\7代理模式\SchoolGirl.cs">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\7代理模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="7代理模式" Source="7代理模式\7代理模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\8工厂模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\8工厂模式.csproj">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\CalculateFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\CalculateFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\Add.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\Add.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\Calculate.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\Calculate.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\Div.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\Div.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\IAddFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\IAddFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\IDivFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\IDivFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\IMulFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\IMulFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\IoperateFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\IoperateFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\ISubFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\ISubFactory.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\Mul.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\Mul.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\test\Sub.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\8工厂模式\test\Sub.cs">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\8工厂模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="8工厂模式" Source="8工厂模式\8工厂模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\9原型模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\9原型模式.csproj">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\test\Resume.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\test\Resume.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\test\ConcretePrototype1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\test\ConcretePrototype1.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\test\Prototype.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\test\Prototype.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\test\WorkExperience.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\9原型模式\test\WorkExperience.cs">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\9原型模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="9原型模式" Source="9原型模式\9原型模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\10模版方法.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\10模版方法.csproj">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\AbstractClass.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\AbstractClass.cs">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\ConcreteClassA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\ConcreteClassA.cs">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\ConcreteClassB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\ConcreteClassB.cs">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\Program.cs">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\10模版方法\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\10模版方法.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="10模版方法" Source="10模版方法\10模版方法.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\12外观模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\12外观模式.csproj">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\Facade.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\Facade.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\SystemSubA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\SystemSubA.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\SystemSubB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\SystemSubB.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\SystemSubC.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\12外观模式\SystemSubC.cs">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\12外观模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="12外观模式" Source="12外观模式\12外观模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\13建造者模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\13建造者模式.csproj">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\FatPerson.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\FatPerson.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Form1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Form1.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Form1.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\PersonBulider.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\PersonBulider.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\PersonDirector.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\PersonDirector.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\ThinPerSon.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\ThinPerSon.cs">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Properties\Settings.settings" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Form1.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Form1.resx">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\Properties\Resources.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\13建造者模式\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\13建造者模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="13建造者模式" Source="13建造者模式\13建造者模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\14观察者模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\14观察者模式.csproj">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Even\BossEven.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Even\BossEven.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Even\Observer1Even.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Even\Observer1Even.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Even\Observer1AEven.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Even\Observer1AEven.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Even\Observer1BEven.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Even\Observer1BEven.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Even\SubjectEven.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Even\SubjectEven.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Observer1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Observer1.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Observer1A.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Observer1A.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Observer1B.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Observer1B.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Sercetary1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Sercetary1.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Subject.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Subject.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\Boss.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\Boss.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\test\Observer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\test\Observer.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\test\StockUser.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\14观察者模式\test\StockUser.cs">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\14观察者模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="14观察者模式" Source="14观察者模式\14观察者模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\15抽象工厂模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\15抽象工厂模式.csproj">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\AccessDepartment.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\AccessDepartment.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\AccessFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\AccessFactory.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\AccessUser.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\AccessUser.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\DataAccess.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\Department.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\Department.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\IDepartment.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\IDepartment.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\IFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\IFactory.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\IUser.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\IUser.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\SqlServerDepartment.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\SqlServerDepartment.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\SqlServerFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\SqlServerFactory.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\SqlServerUser.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\SqlServerUser.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\Test\User.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\Test\User.cs">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\App.config" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\15抽象工厂模式\App.config">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\15抽象工厂模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="15抽象工厂模式" Source="15抽象工厂模式\15抽象工厂模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\16状态模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\16状态模式.csproj">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\EveningState.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\EveningState.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\ForeNoonState.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\ForeNoonState.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\NoonState.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\NoonState.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\SleepingState.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\SleepingState.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\State.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\State.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\Work.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\16状态模式\Work.cs">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\16状态模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="16状态模式" Source="16状态模式\16状态模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\17适配器模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\17适配器模式.csproj">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Center.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Center.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Forward.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Forward.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Guard.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Guard.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Player.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Player.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\test\Adaptee.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\test\Adaptee.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\test\Adapter.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\test\Adapter.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\ForeignCenter.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\ForeignCenter.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\test\Target.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\test\Target.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\Translator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\17适配器模式\Translator.cs">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\17适配器模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="17适配器模式" Source="17适配器模式\17适配器模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\18备忘录模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\18备忘录模式.csproj">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\PlayerRole.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\PlayerRole.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\MementoManager.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\MementoManager.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\StateMemento.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\StateMemento.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\test\Caretaker.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\test\Caretaker.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\test\Memento.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\test\Memento.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\test\Originator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\18备忘录模式\test\Originator.cs">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\18备忘录模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="18备忘录模式" Source="18备忘录模式\18备忘录模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\test.csproj">
+</Event><Event ErrorLevel="0" Project="test" Source="test\Person.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\Person.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\PersonCustom.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\PersonCustom.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\Porder.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\Porder.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\Program.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="test" Source="test\test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\19组合模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\19组合模式.csproj">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\test\Component.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\test\Component.cs">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\test\Composite.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\test\Composite.cs">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\test\Leaf.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\19组合模式\test\Leaf.cs">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\19组合模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="19组合模式" Source="19组合模式\19组合模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\20迭代器模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\20迭代器模式.csproj">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\test\Aggreate.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\test\Aggreate.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\test\ConcreteAggrate.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\test\ConcreteAggrate.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\test\ConcreteIteratorDESC.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\test\ConcreteIteratorDESC.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\test\Iterator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\test\Iterator.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\test\ConcreteIterator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\20迭代器模式\test\ConcreteIterator.cs">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\20迭代器模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="20迭代器模式" Source="20迭代器模式\20迭代器模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\21单例模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\21单例模式.csproj">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Form1.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Form1.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Form1.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\ToolForm.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\ToolForm.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\ToolForm.Designer.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\ToolForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Properties\Settings.settings" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Form1.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Form1.resx">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\Properties\Resources.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\ToolForm.resx" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\21单例模式\ToolForm.resx">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\21单例模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="21单例模式" Source="21单例模式\21单例模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\22桥接模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\22桥接模式.csproj">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HanderBrand.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HanderBrand.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HanderBrandM.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HanderBrandM.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HanderBrandN.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HanderBrandN.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HanderSoftA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HanderSoftA.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HanderSoftB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HanderSoftB.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\test\HandeSoft.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\22桥接模式\test\HandeSoft.cs">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\22桥接模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="22桥接模式" Source="22桥接模式\22桥接模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\23命令模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\23命令模式.csproj">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\Command.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\Command.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\CommandBakeChickenWing.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\CommandBakeChickenWing.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\CommandBakeSheep.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\CommandBakeSheep.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\Reciver.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\Reciver.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\Waiter.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\Waiter.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\test\WaiterB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\23命令模式\test\WaiterB.cs">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\23命令模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="23命令模式" Source="23命令模式\23命令模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\24职责链模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\24职责链模式.csproj">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\test\Handler.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\test\Handler.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\test\HandlerA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\test\HandlerA.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\test\HandlerB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\test\HandlerB.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\test\HandlerC.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\24职责链模式\test\HandlerC.cs">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\24职责链模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="24职责链模式" Source="24职责链模式\24职责链模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\25中介者模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\25中介者模式.csproj">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\test\Colleague.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\test\Colleague.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\test\ColleagueA.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\test\ColleagueA.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\test\ColleagueB.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\test\ColleagueB.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\test\ConcreteMediator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\test\ConcreteMediator.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\test\Mediator.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\25中介者模式\test\Mediator.cs">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\25中介者模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="25中介者模式" Source="25中介者模式\25中介者模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\26享元模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\26享元模式.csproj">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\ConcreteWebsite.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\ConcreteWebsite.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\User.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\User.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\Website.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\Website.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\WebSiteFactory.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\26享元模式\WebSiteFactory.cs">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\26享元模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="26享元模式" Source="26享元模式\26享元模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\28访问者模式.csproj" Description="项目文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\28访问者模式.csproj">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Action.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Action.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\FailAction.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\FailAction.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Man.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Man.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\ObjectStruct.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\ObjectStruct.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Person.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Person.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Program.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\SuccessAction.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\SuccessAction.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\Woman.cs" Description="文件已成功备份为 E:\项目\后期\Exercise\DesignPatterns\Backup\28状态模式\Woman.cs">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\28访问者模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="28访问者模式" Source="28状态模式\28访问者模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DesignPatterns.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DesignPatterns.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="1简单工厂" Source="抽象工厂\1简单工厂.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="2策略模式" Source="策略模式\2策略模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="6装饰模式" Source="6装饰模式\6装饰模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="7代理模式" Source="7代理模式\7代理模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="8工厂模式" Source="8工厂模式\8工厂模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="9原型模式" Source="9原型模式\9原型模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="10模版方法" Source="10模版方法\10模版方法.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="12外观模式" Source="12外观模式\12外观模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="13建造者模式" Source="13建造者模式\13建造者模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="14观察者模式" Source="14观察者模式\14观察者模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="15抽象工厂模式" Source="15抽象工厂模式\15抽象工厂模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="16状态模式" Source="16状态模式\16状态模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="17适配器模式" Source="17适配器模式\17适配器模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="18备忘录模式" Source="18备忘录模式\18备忘录模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="19组合模式" Source="19组合模式\19组合模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="20迭代器模式" Source="20迭代器模式\20迭代器模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="21单例模式" Source="21单例模式\21单例模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="22桥接模式" Source="22桥接模式\22桥接模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="23命令模式" Source="23命令模式\23命令模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="24职责链模式" Source="24职责链模式\24职责链模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="25中介者模式" Source="25中介者模式\25中介者模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="26享元模式" Source="26享元模式\26享元模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="28访问者模式" Source="28状态模式\28访问者模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
